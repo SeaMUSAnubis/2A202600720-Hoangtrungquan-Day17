@@ -1,0 +1,42 @@
+{
+  "standard": [
+    {
+      "agent_name": "Baseline",
+      "agent_tokens_only": 1104,
+      "prompt_tokens_processed": 12860,
+      "recall_score": 0.0,
+      "response_quality": 0.0,
+      "memory_growth_bytes": 0,
+      "compactions": 0
+    },
+    {
+      "agent_name": "Advanced",
+      "agent_tokens_only": 1104,
+      "prompt_tokens_processed": 11090,
+      "recall_score": 0.07142857142857142,
+      "response_quality": 0.07142857142857142,
+      "memory_growth_bytes": 85,
+      "compactions": 10
+    }
+  ],
+  "long_context": [
+    {
+      "agent_name": "Baseline",
+      "agent_tokens_only": 151,
+      "prompt_tokens_processed": 21538,
+      "recall_score": 0.0,
+      "response_quality": 0.0,
+      "memory_growth_bytes": 0,
+      "compactions": 0
+    },
+    {
+      "agent_name": "Advanced",
+      "agent_tokens_only": 171,
+      "prompt_tokens_processed": 2892,
+      "recall_score": 0.0,
+      "response_quality": 0.0,
+      "memory_growth_bytes": 92,
+      "compactions": 15
+    }
+  ]
+}
